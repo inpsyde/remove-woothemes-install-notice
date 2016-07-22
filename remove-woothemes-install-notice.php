@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Remove woothemes' install notice
  * Description: Removes the admin notice that urges you to install the WooThemes installer
- * Plugin URI:  TODO
+ * Plugin URI:  https://github.com/inpsyde/remove-woothemes-install-notice
  * Author:      Inpsyde GmbH
  * Author URI:  http://inpsyde.com/
  * Version:     1.0.0

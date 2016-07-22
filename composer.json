@@ -1,0 +1,22 @@
+{
+	"name": "inpsyde/remove-woothemes-install-notice",
+	"description": "Removes the admin notice that urges you to install the WooThemes installer",
+	"license": "MIT",
+	"type": "wordpress-plugin",
+	"authors": [
+		{
+			"name": "Inpsyde GmbH",
+			"homepage": "http://inpsyde.com/",
+			"email": "hallo@inpsyde.com",
+			"role": "Company"
+		},
+		{
+			"name": "David Naber",
+			"email": "d.naber@inpsyde.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.5"
+	}
+}

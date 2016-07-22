@@ -6,7 +6,7 @@
  * Plugin URI:  https://github.com/inpsyde/remove-woothemes-install-notice
  * Author:      Inpsyde GmbH
  * Author URI:  http://inpsyde.com/
- * Version:     1.0.0
+ * Version:     1.0.2
  * License:     MIT
  * Text Domain: remove-woothemes-install-notice
  */
